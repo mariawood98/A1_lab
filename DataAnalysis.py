@@ -7,6 +7,8 @@ Created on Sun Jan 24 15:58:32 2021
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy as sp
+from scipy.optimize import curve_fit
+from scipy import stats
 
 # =============================================================================
 #  import necessary data
