@@ -44,5 +44,5 @@ for i in range(no_objects):
  
 plt.figure()
 plt.imshow(basearray)
-#plt.savetxt('simulatedimage.txt', basearray)
+#np.savetxt('simulatedimage.txt', basearray)
 
